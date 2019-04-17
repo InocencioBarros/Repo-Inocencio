@@ -5,4 +5,4 @@ Será adicionado uma nova featura que Pede um novo número ao utilizador:
   
 Todas alterações feitas na app, será escrito num fichero de log á parte para melhor análise;
 
-Processo de instalação mais simples e intuítivoç.
+Processo de instalação mais simples e intuítivo
